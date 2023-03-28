@@ -1,0 +1,295 @@
+lead_id,stage_dropeed,reason,stage
+USR1001,reasons_for_not_interested_in_demo,No time for student,lead
+USR1048,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1049,reasons_for_not_interested_in_demo,No time for student,lead
+USR1054,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1056,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1059,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1060,reasons_for_not_interested_in_demo,No time for student,lead
+USR1061,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1064,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1066,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1068,reasons_for_not_interested_in_demo,No time for student,lead
+USR1069,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1074,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1076,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1079,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1080,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1081,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1084,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1085,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1086,reasons_for_not_interested_in_demo,No time for student,lead
+USR1088,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1089,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1094,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1096,reasons_for_not_interested_in_demo,No time for student,lead
+USR1099,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1100,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1101,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1104,reasons_for_not_interested_in_demo,No time for student,lead
+USR1106,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1108,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1109,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1114,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1119,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1120,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1121,reasons_for_not_interested_in_demo,No time for student,lead
+USR1124,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1125,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1126,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1128,reasons_for_not_interested_in_demo,No time for student,lead
+USR1129,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1134,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1136,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1139,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1140,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1141,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1144,reasons_for_not_interested_in_demo,No time for student,lead
+USR1146,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1148,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1149,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1154,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1156,reasons_for_not_interested_in_demo,No time for student,lead
+USR1159,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1160,reasons_for_not_interested_in_demo,No time for student,lead
+USR1161,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1164,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1165,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1166,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1168,reasons_for_not_interested_in_demo,No time for student,lead
+USR1169,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1174,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1176,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1179,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1180,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1181,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1184,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1186,reasons_for_not_interested_in_demo,No time for student,lead
+USR1188,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1189,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1194,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1196,reasons_for_not_interested_in_demo,No time for student,lead
+USR1199,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1200,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1201,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1204,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1205,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1206,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1208,reasons_for_not_interested_in_demo,No time for student,lead
+USR1209,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1214,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1216,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1219,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1220,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1221,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1224,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1226,reasons_for_not_interested_in_demo,No time for student,lead
+USR1228,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1229,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1234,reasons_for_not_interested_in_demo,No time for student,lead
+USR1236,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1239,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1240,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1241,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1244,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1245,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1246,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1248,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1249,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1254,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1256,reasons_for_not_interested_in_demo,No time for student,lead
+USR1259,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1260,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1261,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1264,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1266,reasons_for_not_interested_in_demo,No time for student,lead
+USR1268,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1269,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1274,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1279,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1280,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1281,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1284,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1285,reasons_for_not_interested_in_demo,No time for student,lead
+USR1286,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1288,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1289,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1294,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1296,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1299,reasons_for_not_interested_in_demo,No time for student,lead
+USR1300,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1301,reasons_for_not_interested_in_demo,No time for student,lead
+USR1304,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1306,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1308,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1309,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1316,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1320,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1321,reasons_for_not_interested_in_demo,No time for student,lead
+USR1322,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1323,reasons_for_not_interested_in_demo,No time for student,lead
+USR1324,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1325,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1326,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1327,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1328,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1329,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1330,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1331,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1332,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1333,reasons_for_not_interested_in_demo,No time for student,lead
+USR1334,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1335,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1336,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1337,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1338,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1339,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1340,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1341,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1342,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1344,reasons_for_not_interested_in_demo,Student not interested in domain,lead
+USR1345,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1346,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1347,reasons_for_not_interested_in_demo,No time for student,lead
+USR1349,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1350,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1351,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1352,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1353,reasons_for_not_interested_in_demo,Will join in final year,lead
+USR1354,reasons_for_not_interested_in_demo,Will join in final year,lead
+USR1355,reasons_for_not_interested_in_demo,Will join in final year,lead
+USR1356,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1357,reasons_for_not_interested_in_demo,Can't afford,lead
+USR1358,reasons_for_not_interested_in_demo,Wants offline classes,lead
+USR1359,reasons_for_not_interested_in_demo,Will join in final year,lead
+USR1360,reasons_for_not_interested_in_demo,Will join in final year,lead
+USR1003,reasons_for_not_interested_to_consider,No time for student,awareness
+USR1004,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1005,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1006,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1008,reasons_for_not_interested_to_consider,Will join in final year,awareness
+USR1009,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1010,reasons_for_not_interested_to_consider,Will join in final year,awareness
+USR1014,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1015,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1016,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1018,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1019,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1020,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1021,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1024,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1026,reasons_for_not_interested_to_consider,No time for student,awareness
+USR1028,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1029,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1030,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1034,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1035,reasons_for_not_interested_to_consider,No time for student,awareness
+USR1036,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1038,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1039,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1040,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1041,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1043,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1044,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1045,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1046,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1050,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1055,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1058,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1070,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1075,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1078,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1083,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1090,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1095,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1098,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1110,reasons_for_not_interested_to_consider,No time for student,awareness
+USR1115,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1118,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1123,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1130,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1135,reasons_for_not_interested_to_consider,No time for student,awareness
+USR1138,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1150,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1155,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1158,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1163,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1170,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1175,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1178,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1190,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1195,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1198,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1203,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1210,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1215,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1218,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1230,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1235,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1238,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1243,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1250,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1255,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1258,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1270,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1275,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1278,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1283,reasons_for_not_interested_to_consider,No time for student,awareness
+USR1290,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1295,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1298,reasons_for_not_interested_to_consider,Can't afford,awareness
+USR1310,reasons_for_not_interested_to_consider,Student not interested in domain,awareness
+USR1315,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1318,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1319,reasons_for_not_interested_to_consider,Wants offline classes,awareness
+USR1027,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1065,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1067,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1071,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1077,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1082,reasons_for_not_interested_to_convert,Will join in final year,consider
+USR1087,reasons_for_not_interested_to_convert,Will join in final year,consider
+USR1091,reasons_for_not_interested_to_convert,Will join in final year,consider
+USR1097,reasons_for_not_interested_to_convert,Will join in final year,consider
+USR1105,reasons_for_not_interested_to_convert,Will join in final year,consider
+USR1107,reasons_for_not_interested_to_convert,Will join in final year,consider
+USR1111,reasons_for_not_interested_to_convert,Will join in final year,consider
+USR1117,reasons_for_not_interested_to_convert,No time for student,consider
+USR1122,reasons_for_not_interested_to_convert,No time for student,consider
+USR1127,reasons_for_not_interested_to_convert,No time for student,consider
+USR1131,reasons_for_not_interested_to_convert,No time for student,consider
+USR1137,reasons_for_not_interested_to_convert,No time for student,consider
+USR1145,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1147,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1151,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1157,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1162,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1167,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1171,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1177,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1185,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1187,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1191,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1197,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1202,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1207,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1211,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1217,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1225,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1227,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1231,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1237,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1242,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1247,reasons_for_not_interested_to_convert,Can't afford,consider
+USR1251,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1257,reasons_for_not_interested_to_convert,Student not interested in domain,consider
+USR1265,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1267,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1271,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1277,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1282,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1287,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1291,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1305,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1343,reasons_for_not_interested_to_convert,Wants offline classes,consider
+USR1348,reasons_for_not_interested_to_convert,Wants offline classes,consider
