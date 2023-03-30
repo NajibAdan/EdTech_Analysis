@@ -13,8 +13,9 @@ The dataset contains 5 CSV files containg:
 - `leads_reasons_for_no_interest`: Contains the details of the reasons given by the leads for their lack of interest.
 
 ## Insights:
+- 18% of leads are successfully converted while 45% of leads dropped out at the earliest introduction stage.
 - Leads who dropped out of the customer acquisition flow cited affordability, preferring offline classes and not being in interested in the subject.
-- Majority of the leads who cited affordability are aged between 22-25 and are currently looking for a job. The company can look into having discussion with the leads' parents to see if they can support.
+- Majority of the leads who cited affordability are aged between 22-25 and are currently looking for a job. The company can look into having discussion with the leads' parents to see if they can support or introduce a more affordable payment model.
 - The company could set up centres at Visakhapatnam, Kochi, Hyderabad and Mumbai if they wanted to better accomodate the clients who preferred physicals classes.
 - The demo videos are not engaging as leads or even successfully converted leads rarely ever watched the entirety of the demo. 
 - Email Marketing has the most successfully converted leads even though it was the lowest generating source for all the leads.
